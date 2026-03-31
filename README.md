@@ -30,7 +30,7 @@ An industrial company needs to select a new facility location that balances:
 | 2       | 510,000     | 51.0            |
 | 3       | 548,000     | 54.8            |
 
-![Final Map](Outputs/Final_Map.pdf)
+![Final Map](Final_Map.pdf)
 
 ## How to Reproduce
 1. Download `SiteSelection.gdb` and open in ArcGIS Pro
