@@ -15,7 +15,7 @@ An industrial company needs to select a new facility location that balances:
 - **Python** (Automation script exported from ModelBuilder)
 
 ## Methodology
-![ModelBuilder Workflow](model_screenshot.png)
+![ModelBuilder Workflow](Model_screenshot.png)
 
 ### Criteria Applied:
 1. **Environmental Buffer**: 200m from rivers
