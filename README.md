@@ -24,11 +24,18 @@ An industrial company needs to select a new facility location that balances:
 4. **Size Filter**: ≥50 hectares (500,000 sq meters)
 
 ## Results
-| Site_ID | Area (sq m) | Area (hectares) |
-|---------|-------------|-----------------|
-| 1       | 525,000     | 52.5            |
-| 2       | 510,000     | 51.0            |
-| 3       | 548,000     | 54.8            |
+
+After running the suitability analysis, **1 potential site** was identified that meets all criteria:
+
+| Site_ID | Area (sq m) | Area (hectares) | Land Type |
+|---------|-------------|-----------------|-----------|
+| 1 | 38,271,813 | 3,827.18 | Agriculture |
+
+**Analysis Summary:**
+- Total agricultural parcels examined: 1
+- Parcels meeting size requirement (≥50 ha): 1
+- Parcels meeting buffer requirements: 1
+- Final suitable sites: 1
 
 ![Final Map](Final_Map.pdf)
 
