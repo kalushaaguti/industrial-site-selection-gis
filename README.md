@@ -39,10 +39,12 @@ After running the suitability analysis, **1 potential site** was identified that
 
 ![Final Map](Final_Map.pdf)
 
-## How to Reproduce
-1. Download `SiteSelection.gdb` and open in ArcGIS Pro
-2. Run the model `industrial_site_model.py` or open ModelBuilder
-3. Export results and map layout
+## How to Use This Project
+
+1. **Download** `SiteSelection.gdb.zip` from this repository
+2. **Extract** the ZIP file to your computer
+3. Open `IndustrialSiteProject.aprx` in ArcGIS Pro
+4. The project will automatically link to the extracted geodatabase
 
 ## Skills Demonstrated
 - ✅ Spatial analysis and geoprocessing
